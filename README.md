@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello folks 🤠
 
 <!--
 **marianomarciello/marianomarciello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I'm currently learning how to manage Virtual Private Cloud (AWS).
+- 👯 I'm looking to collaborate on cybersecurity project or low level programming project (C/Rust/C++)
+- 💬 Ask me about my thesis "An semi-autonomous generator of cyber attack"
+- 📫 How to reach me: marciello.mariano@gmail.com
