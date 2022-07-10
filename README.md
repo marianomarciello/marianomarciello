@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning how to manage Virtual Private Cloud (AWS).
 - 👯 I'm looking to collaborate on cybersecurity project or low level programming project (C/Rust/C++)
-- 💬 Ask me about my thesis "An semi-autonomous generator of cyber attack"
+- 💬 Ask me about my thesis "A semi-autonomous generator of cyber attack"
 - 📫 How to reach me: marciello.mariano@gmail.com
