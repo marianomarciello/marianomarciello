@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning how to manage Virtual Private Cloud (AWS).
+- 🌱 I'm currently learning how to write better Rust code 🦀.
 - 👯 I'm looking to collaborate on cybersecurity project or low level programming project (C/Rust/C++)
 - 💬 Ask me about my thesis "A semi-autonomous generator of cyber attack"
 - 📫 How to reach me: marciello.mariano@gmail.com
